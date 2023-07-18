@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,U as n}from"./chunks/framework.76b79cb5.js";const p=JSON.parse('{"title":"管理者","description":"","frontmatter":{},"headers":[],"relativePath":"admin/index.md","filePath":"admin/index.md"}'),o={name:"admin/index.md"},r=n("",3),i=[r];function d(s,_,c,h,l,m){return e(),t("div",null,i)}const u=a(o,[["render",d]]);export{p as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,U as r}from"./chunks/framework.76b79cb5.js";const f=JSON.parse('{"title":"ユーザー設定","description":"","frontmatter":{},"headers":[],"relativePath":"admin/users.md","filePath":"admin/users.md"}'),o={name:"admin/users.md"},s=r("",6),i=[s];function n(h,d,l,c,_,u){return e(),t("div",null,i)}const b=a(o,[["render",n]]);export{f as __pageData,b as default};

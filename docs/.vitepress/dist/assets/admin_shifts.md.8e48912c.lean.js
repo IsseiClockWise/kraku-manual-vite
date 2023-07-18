@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,U as r}from"./chunks/framework.76b79cb5.js";const m=JSON.parse('{"title":"シフト管理","description":"","frontmatter":{},"headers":[],"relativePath":"admin/shifts.md","filePath":"admin/shifts.md"}'),o={name:"admin/shifts.md"},i=r("",9),h=[i];function n(s,l,d,c,_,u){return e(),t("div",null,h)}const b=a(o,[["render",n]]);export{m as __pageData,b as default};
