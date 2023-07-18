@@ -1,0 +1,9 @@
+:root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+}
+
+.nav-bar .logo {
+  height: 30px;
+  margin-right: 2px;
+}

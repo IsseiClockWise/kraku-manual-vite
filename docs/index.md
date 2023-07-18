@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "ケイラク ガイドマニュアル"
-  text: "ケイラクの使い方を説明いたします。"
+  name: ガイドマニュアル
+  text: ケイラクの使い方を説明します
+  image:
+    src: /hero.png
 ---
-
-![An image](/hero.png)
