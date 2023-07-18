@@ -1,9 +1,16 @@
-:root {
-  --vp-c-brand: #646cff;
-  --vp-c-brand-light: #747bff;
+@media (prefers-color-scheme: light) {
+  :root {
+    --vp-c-white: #ffffff;
+    --vp-c-black: #000000;
+    --vp-c-brand: #646cff;
+    --vp-c-brand-light: #747bff;
+  }
 }
-
-.nav-bar .logo {
-  height: 30px;
-  margin-right: 2px;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-white: #000000;
+    --c-black: #ffffff;
+    --vp-c-brand: #646cff;
+    --vp-c-brand-light: #747bff;
+  }
 }
